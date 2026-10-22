@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Species Classifier",
+  "description": "Dashboard moderno para previsão e classificação de espécies da flor Iris (Setosa, Versicolor, Virginica) com Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
